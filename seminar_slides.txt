@@ -1,1 +1,13 @@
 https://docs.google.com/presentation/d/1xETf8cA02Cwesh9i4_wocFPaZjInLshNU4ts1nmQYts/edit?usp=sharing
+
+
+Sources 
+
+Investopedia:
+https://www.investopedia.com/terms/p/prisoners-dilemma.asp#:~:text=Key%20Takeaways,the%20group%20rather%20than%20cooperate.
+
+Algorithms Explained – minimax and alpha-beta pruning:
+https://www.youtube.com/watch?v=l-hh51ncgDI
+
+Matching Pennies: Finding Mixed Strategy Nash Equilibrium:
+https://www.youtube.com/watch?v=CjtR8pLqZNE
